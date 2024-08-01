@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    var url = "http://localhost:3000/jokes/random"
+    var url = "https://caremback.onrender.com/jokes/random"
     $('#jokebutton').click(() => {
         $.get(url, (data) => {
             console.log(data[0][0]);
