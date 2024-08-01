@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 30%;
+    width: 100%;
+    background-color: #FEF104;
+}
+
+header img {
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    height: 70%;
+}
+
+main {
+    color: #7e3300;
+    text-align: center;
+}
